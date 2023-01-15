@@ -1,0 +1,5 @@
+Hamburger;bulka z miesem;4;5
+BigMac;bulka z dwoma miesami;12;5
+WieśMac;wiejska bulka z miesami;14;5
+McNuggets;kurczaki tf;15;5
+Frytki;ziemniakil smazone xd;3;5
